@@ -118,7 +118,7 @@ h6 {
 .logotip__img{
     width: 50vh;
     padding-bottom: 109%;
-    background-image: url("../img/logo/Group.png");
+    background-image: url("./img/logo/Group.png");
     background-position: center center;
     background-size: contain; 
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@ h6 {
 .logotip__text{
     width: 50vh;
     padding-bottom: 60%;
-    background-image: url("../img//logo/Vector\ \(1\).svg");
+    background-image: url("./img//logo/Vector\ \(1\).svg");
     background-position: center center;
     background-size: contain; 
     background-repeat: no-repeat;
